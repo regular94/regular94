@@ -1,3 +1,10 @@
+<div align="center"> 
+  
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ノーマルさん&fontSize=90)
+
+<br>
+<br>
+
 <details>
   <summaty>
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=58FFD600&random=false&width=435&lines=Let+me+introduce+myself)](https://git.io/typing-svg)
@@ -6,13 +13,6 @@
   ## 한국 이름: 김정규 👋
   ## English name: Regular 👋  
 </details>
-
-<div align="center"> 
-  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ノーマルさん&fontSize=90)
-
-<br>
-<br>
 
 <!-- Image [badge 2] -->
 <!-- framework -->
