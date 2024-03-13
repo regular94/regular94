@@ -18,14 +18,18 @@ asdasd
     
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=58FFD600&random=false&width=435&lines=Let+me+introduce+myself" alt="Typing SVG" /></a>
 
+<h3> 👀 Default Tools </h3>
 <!-- Image [badge 2] -->
 <!-- framework -->
 <a href="https://code.visualstudio.com">
 <img alt= "Visualstudio" src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=Visualstudio&logoColor=white"/></a>
-<a href="https://bitbucket.org">
-<img alt= "Bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"/> </a>
 <a href="https://diagrams.net">
 <img alt= "Diagramsdotnet" src="https://img.shields.io/badge/diagramsdotnet-F08705?style=for-the-badge&logo=Diagramsdotnet&logoColor=white"/> </a>
+
+<a href="https://bitbucket.org">
+<img alt= "Bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"/> </a>
+
+
 
 <!-- Program -->
 <img alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
