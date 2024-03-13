@@ -17,6 +17,8 @@
 <!-- Program -->
 <img alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt= "HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Anaconda&logoColor=white"/>
+<img alt= "Mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/>
+
 
 <!-- Infra -->
 <img alt= "Docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
