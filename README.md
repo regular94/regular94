@@ -1,6 +1,11 @@
-## 日本の名前: ノーマルさん 👋
-## 한국 이름: 김정규 👋
-## English name: Regular 👋
+<details>
+  <summaty>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=58FFD600&random=false&width=435&lines=Let+me+introduce+myself)](https://git.io/typing-svg)
+  </summary>
+  ## 日本の名前: ノーマルさん 👋
+  ## 한국 이름: 김정규 👋
+  ## English name: Regular 👋  
+</details>
 
 <div align="center"> 
   
