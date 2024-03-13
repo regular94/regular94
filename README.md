@@ -11,4 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regular94)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=python3&logoColor=black">
+
 </div>
