@@ -10,6 +10,9 @@
 <!-- Image [badge 2] -->
 <!-- framework -->
 <img alt= "Visualstudio" src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=Visualstudio&logoColor=white"/>
+<img alt= "Bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"/>
+<img alt= "Diagramsdotnet" src="https://img.shields.io/badge/diagramsdotnet-F08705?style=for-the-badge&logo=Diagramsdotnet&logoColor=white"/>
+
 
 <!-- Program -->
 <img alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
