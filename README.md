@@ -28,11 +28,12 @@ asdasd
 <br>
 
 <h3> 🧑🏻‍💻 Cowork Tools 🧑🏻‍💻 </h3>
+<a href="https://www.notion.so/ko-kr">
+<img alt= "Notion" src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> </a>
 <a href="https://bitbucket.org">
 <img alt= "Bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"/> </a>
-
-<a href="https://bitbucket.org">
-<img alt= "Bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"/> </a>
+<a href="https://github.com">
+<img alt= "Github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white"/> </a>
 <br>
 
 <!-- Program -->
