@@ -21,7 +21,8 @@
 
 
 <!-- Infra -->
-<img alt= "Docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+<img alt= "Centos" src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=Centos&logoColor=white"/>
+<img alt= "Ubuntu" src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 <img alt= "Docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 <img alt= "ANACONDA" src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=HTML5&logoColor=white"/>
 
