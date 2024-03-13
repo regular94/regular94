@@ -8,7 +8,7 @@
 <br>
 
 <img alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt= "HTML5" src="https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img alt= "HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regular94)](https://github.com/anuraghazra/github-readme-stats)
 
