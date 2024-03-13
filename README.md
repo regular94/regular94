@@ -1,6 +1,6 @@
-### 日本の名前: ノーマルさん 👋
-### 한국 이름: 김정규 👋
-### English name: Regular 👋
+## 日本の名前: ノーマルさん 👋
+## 한국 이름: 김정규 👋
+## English name: Regular 👋
 
 <div align="center"> 
   
@@ -20,6 +20,7 @@
 <img alt= "HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Anaconda&logoColor=white"/>
 <img alt= "CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt= "JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
+<img alt= "Oracle" src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 <img alt= "Mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/>
 
 <!-- Infra -->
