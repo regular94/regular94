@@ -15,6 +15,11 @@ asdasd
   ## English name: Regular 👋  
 </details>
 
+    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=58FFD600&random=false&width=435&lines=Let+me+introduce+myself" alt="Typing SVG" /></a>
+
+
+    
 <!-- Image [badge 2] -->
 <!-- framework -->
 <img alt= "Visualstudio" src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=Visualstudio&logoColor=white"/>
