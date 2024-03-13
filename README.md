@@ -5,16 +5,7 @@
 <br>
 <br>
 
-<details>
-  <summaty>
-asdasd
-  </summary>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&random=false&width=435&lines=Let+me+introduce+myself+Jeongkyu+Kim)](https://git.io/typing-svg)
-  ## 日本の名前: ノーマルさん 👋
-  ## 한국 이름: 김정규 👋
-  ## English name: Regular 👋  
-</details>
-
     
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=58FFD600&random=false&width=435&lines=Let+me+introduce+myself" alt="Typing SVG" /></a>
 
@@ -38,14 +29,22 @@ asdasd
 <img alt= "Slack" src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/> </a>
 <br>
 
+<h3> ⚒️ Tech Stack ⚒️ </h3>
 <!-- Program -->
-<img alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt= "HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Anaconda&logoColor=white"/>
-<img alt= "CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img alt= "JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
-<img alt= "Oracle" src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-<img alt= "Mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/>
+<a href="https://www.python.org/downloads">
+<img alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<a href="https://www.w3schools.com/tags/tag_comment.asp">
+<img alt= "HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Anaconda&logoColor=white"/></a>
+<a href="https://www.w3schools.com/css/default.asp">
+<img alt= "CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
+<a href="https://www.w3schools.com/js/">
+<img alt= "JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>
+<a href="https://www.oracle.com">
+<img alt= "Oracle" src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/></a>
+<a href="https://www.mysql.com">
+<img alt= "Mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/></a>
 
+<h3> 🏗️ Infra 🏗️ </h3>
 <!-- Infra -->
 <img alt= "Centos" src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=Centos&logoColor=white"/>
 <img alt= "Ubuntu" src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
