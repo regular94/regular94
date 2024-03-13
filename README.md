@@ -15,8 +15,6 @@ asdasd
   ## English name: Regular 👋  
 </details>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&random=false&width=435&lines=Let+me+introduce+myself+Jeongkyu+Kim)](https://git.io/typing-svg)
-
     
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=58FFD600&random=false&width=435&lines=Let+me+introduce+myself" alt="Typing SVG" /></a>
 
