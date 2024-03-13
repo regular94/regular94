@@ -9,7 +9,7 @@
   <summaty>
 asdasd
   </summary>
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=58FFD600&vCenter=true&random=false&width=700&lines=Let+me+introduce+myself+Jeongkyu+Kim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&background=58FFD600&vCenter=true&random=false&width=680&lines=Let+me+introduce+myself+Jeongkyu+Kim)](https://git.io/typing-svg)
   ## 日本の名前: ノーマルさん 👋
   ## 한국 이름: 김정규 👋
   ## English name: Regular 👋  
