@@ -18,9 +18,7 @@
 <img alt= "HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Anaconda&logoColor=white"/>
 <img alt= "CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt= "JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
-
-<img alt= "Mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-
-badge&logo=Mysql&logoColor=white"/>
+<img alt= "Mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/>
 
 <!-- Infra -->
 <img alt= "Centos" src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=Centos&logoColor=white"/>
