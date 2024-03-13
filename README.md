@@ -12,5 +12,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regular94)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-![anaconda](https://github.com/regular94/regular94/assets/29636137/992a7a09-b3e8-46de-9a2a-342c5a4a2a96)
