@@ -7,23 +7,13 @@
 <br>
 <br>
 
+<img alt="python" src ="https://img.shields.io/badge/python.svg?&style=for-the-badge&logo=python&logoColor=#3776AB"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regular94)](https://github.com/anuraghazra/github-readme-stats)
 
+https://github.com/regular94/regular94/issues/1#issue-2183192834
+
 </div>
+![python](https://github.com/regular94/regular94/assets/29636137/fc06aaeb-2b47-433d-b858-5c8fb26ee805)
 
-
-
-<!--
-**regular94/regular94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![anaconda](https://github.com/regular94/regular94/assets/29636137/992a7a09-b3e8-46de-9a2a-342c5a4a2a96)
