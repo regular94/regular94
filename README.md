@@ -54,8 +54,6 @@
 <img alt= "Docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>
 <a href="https://www.anaconda.com">
 <img alt= "ANACONDA" src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
-<a href="https://aws.amazon.com/ko/?nc2=h_lg">
-<img alt= "Amazon AWS" src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
 <br>
 <br>
 <hr>
